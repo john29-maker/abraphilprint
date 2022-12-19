@@ -1,0 +1,23 @@
+body {
+    background:url(b4.jpg) ;
+    font-family:  NewsGoth Lt BT;
+    font-size: 14px;
+    color:rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+}
+.swiper-container {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 850px;
+    height:600px;
+    background: rgba(255, 255, 255, 0);
+}
+
+ 
+}
